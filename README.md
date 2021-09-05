@@ -1,1 +1,1 @@
-# independent-project
+# akan name generator
