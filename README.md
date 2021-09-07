@@ -1,5 +1,5 @@
  Akan name generator
-#### a web app that generates an Akan name based on the date of birth and gender by determining the day one was born.
+#### A web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. 
 
 ## Author
 EDWARD GERO
