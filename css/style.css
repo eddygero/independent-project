@@ -1,0 +1,97 @@
+body{
+    font-family: 'Copse', serif;
+    background-image: url("paper.gif");
+    background-color: #500b0b;
+    font-size: 17px;
+  }
+  
+  h1{
+    background: rgb(98, 40, 136);
+    background: linear-gradient(70deg, rgb(160, 95, 202) 0%, rgb(202, 44, 44) 50%, rgba(252,176,69,1) 100%);
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 20px;
+  }
+  
+  .container{
+    width: 90%;
+    margin: auto;
+  }
+  
+  #year{
+    background: rgb(127, 123, 204);
+    background: circular-gradient(90deg, rgb(67, 63, 146) 0%, rgb(7, 7, 112) 35%, rgba(7, 154, 199) 100%);
+    border-radius: 15px;
+    width: 70px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #month{
+    background: rgb(127, 123, 204);
+    background: circular-gradient(90deg, rgb(67, 63, 146) 0%, rgb(7, 7, 112) 35%, rgba(7, 154, 199) 100%);
+    border-radius: 15px;
+    width: 70px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #day{
+    background: rgb(127, 123, 204);
+    background: circular-gradient(90deg, rgb(67, 63, 146) 0%, rgb(7, 7, 112) 35%, rgba(7, 154, 199) 100%);
+    border-radius: 15px;
+    width: 70px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #get-name{
+    border-radius: 5px;
+    color: #000000;
+    background-color:rgb(212, 36, 212);
+    text-align: center;
+    border: solid 1px #000000;
+    width: 108px;
+    height: 32px;
+    font-size: 13px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  #result{
+    text-align: center;
+  }
+  
+  .content{
+    background-color: rgba(59, 201, 30, 0.72);
+    /* height: 850px*/
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+    margin-bottom: auto;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px #0c0b0b;
+    border-radius: 0.5%;
+  }
+  
+  .research{
+    text-decoration: underline;
+    color: white;
+  }
+  
+  .clear{
+    border-radius: 5px;
+    color: #000000;
+    background-color:rgb(212, 36, 212);
+    text-align: center;
+    border: solid 1px #000000;
+    width: 108px;
+    height: 32px;
+    font-size: 13px;
+    box-shadow: 2px 2px #000000;
+  }
+  
+  a:hover{
+    color: #006B3F;
+  }
+  
+  
