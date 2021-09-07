@@ -1,5 +1,6 @@
 body{
     font-family: 'Copse', serif;
+    background-image: url('../images/background.jpg');
     background-color: #cccccc;
     font-size: 17px;
   }
