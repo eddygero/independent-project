@@ -1,7 +1,6 @@
 body{
     font-family: 'Copse', serif;
-    background-image: url("paper.gif");
-    background-color: #500b0b;
+    background-color: #cccccc;
     font-size: 17px;
   }
   
@@ -91,7 +90,7 @@ body{
   }
   
   a:hover{
-    color: #006B3F;
+    color: #00b469;
   }
   
   
