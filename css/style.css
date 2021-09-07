@@ -3,8 +3,7 @@ body{
     background-image:url(../images/coastal.jpeg);
     background-color: #cccccc;
     font-size: 17px;
-  }
-  
+  }  
   h1{
     background: rgb(98, 40, 136);
     background: linear-gradient(70deg, rgb(160, 95, 202) 0%, rgb(202, 44, 44) 50%, rgba(252,176,69,1) 100%);
