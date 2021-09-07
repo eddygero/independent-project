@@ -21,6 +21,15 @@ Here are the features in summary:
 * CSS
 * Javascript
 
+## BDD
+* Enter year of Birth 
+
+* Enter month of birth 
+
+* Enter Date of the month you were born
+
+* Select gender 
+
 ## Contact Information 
 
 If you have any question or contributions, please email me at (gero.temitayo33@gmail.com)
