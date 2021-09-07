@@ -20,3 +20,8 @@ Here are the features in summary:
 * HTML  
 * CSS
 * Javascript
+
+## Contact Information 
+
+If you have any question or contributions, please email me at (gero.temitayo33@gmail.com)
+
