@@ -23,7 +23,6 @@ Here are the features in summary:
 
 ## BDD
 * Enter year of Birth 
-
 * Enter month of birth 
 * Enter Date of the month you were born
 * Select gender 
