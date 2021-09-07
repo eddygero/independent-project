@@ -1,6 +1,6 @@
 body{
     font-family: 'Copse', serif;
-    background-image: url('../images/background.jpg');
+    background-image:url(../images/coastal.jpeg);
     background-color: #cccccc;
     font-size: 17px;
   }
@@ -14,7 +14,7 @@ body{
   }
   
   .container{
-    width: 90%;
+    width: 75%;
     margin: auto;
   }
   

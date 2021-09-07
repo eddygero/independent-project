@@ -32,9 +32,9 @@ function getAkanName () {
       if (monthOfBirth === 2 && Number(yearOfBirth)%4 === 0) {
         if (dayOfBirth > 31 || dayOfBirth < 1) {
           return false;
-        } else if (monthOfBirth === 2 && dayOfBirth > 31) {
+        } else if (monthOfBirth === 12 && dayOfBirth > 31) {
           return false;
-        } else if (monthOfBirth === 2 && dayOfBirth < 1) {
+        } else if (monthOfBirth === 12 && dayOfBirth < 1) {
           return false;
         } else {
           return true;
@@ -107,9 +107,9 @@ function getAkanName () {
           return false;
           break;
         default:
-          alert("mmh no Akan name for you");
-  
+          alert(  "no Akan name");
       }
+
     } else if(myGenderValue == "female" && monthValid && dayValid) {
       switch (dayOfWeekNumber) {
         case 1:
