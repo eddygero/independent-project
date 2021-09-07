@@ -27,7 +27,6 @@ Here are the features in summary:
 * Enter month of birth 
 
 * Enter Date of the month you were born
-
 * Select gender 
 
 ## Contact Information 
